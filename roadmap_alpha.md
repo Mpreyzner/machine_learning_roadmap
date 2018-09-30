@@ -1,5 +1,5 @@
 
-- version control basics with git
+- version control basics with git (creating branches, merging code, commiting code, makeing stashes)
 - ssh, basic linux operation, managing files in shell
 - programming basics in either python or R (functions, loops, dictonaries, lists, sets, flow control - for loops, if/else, variables, basic data formats - str, bool, int, float)
 - langue specific libs useful in machine learning (for python: pandas, numpy, matplotlib)
