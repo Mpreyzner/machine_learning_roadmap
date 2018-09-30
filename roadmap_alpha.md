@@ -8,3 +8,4 @@
 - Some math (logarithms, trigonometric functions, coefficient)
 - Some statistics (mean, median, standard deviation, histograms)
 - Some machine learning framework - tensorflow/pytorch/keras
+- Data preparation/preprocessing (normalisation, data clean up strategies, feature engineering)
