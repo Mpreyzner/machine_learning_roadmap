@@ -4,7 +4,7 @@
  - langue specific libs useful in machine learning  -  visualisation (matplotlib/pyplot), scientific computing AKA linear algebra + math stuff - numpy, data analysis and managment - pandas
  - basic ML algorithms (naive Bayes, Regressions - linear and logistic, random forest, decision tree, k- Nearest Neighbors, k-means, Support Vector Machine (SVM), neural network)
  - Linear algebra basics (operations on matrices - dot product)
- - Some math (logarithms, trigonometric functions, coefficient)
+ - Some math (logarithms, trigonometric functions, coefficient, derrivative)
  - Some statistics (mean, median, standard deviation, histograms)
  - Some machine learning framework - tensorflow/pytorch/keras
  - Data preparation/preprocessing (normalisation, data clean up strategies, feature engineering)
